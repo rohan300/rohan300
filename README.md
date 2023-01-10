@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohan300
 - 👀 I’m interested in Artificial Intelligence and Computer Science
 - 🖐️ Studying AI and Computer Science at the University of Edinburgh with a year abroad at the University of Chicago
-- ✍️ I’m currently learning Ruby
+- ✍️ I’m currently learning React
 - 📫 Reach out to me via [Linkedin](https://www.linkedin.com/in/raorohan/)
 
 <!---
